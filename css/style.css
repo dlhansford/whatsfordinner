@@ -1,0 +1,23 @@
+header, body {
+    text-align: center;
+}
+h1 {
+    background-color: darkgray;
+    border: 2px solid gray;
+    border-radius: 8px;
+    color: teal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    width: 120px;
+    height: 30px;
+    background-color: darkgrey;
+    color: teal;
+    border: 2px solid gray;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 8px;
+}
